@@ -15,5 +15,7 @@ ABOUT ME-
 I am Virender Vashisht
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 ![Instagram](https://img.shields.io/badge/Instagram-000001?style=for-the-badge&logo=Instagram&logoColor=pink)
+
 
