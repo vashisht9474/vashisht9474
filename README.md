@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ABOUT ME-
 
-I am Virender Vashisht
+I am a ML/DL enthusiast
 
 FIND ME ON!
 <p align="center">
