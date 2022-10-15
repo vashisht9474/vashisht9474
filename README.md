@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 
 -->
-ABOUT ME
-I am Virender Vashisht
-- i am a deep learning/machine learning enthusiast
+
+
+
 ABOUT ME-
 
 I am Virender Vashisht
@@ -23,9 +23,7 @@ FIND ME ON!
 
 <br />
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-![Instagram](https://img.shields.io/badge/Instagram-000001?style=for-the-badge&logo=Instagram&logoColor=pink)
 
 
 
