@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 
 -->
 
+<img src="https://camo.githubusercontent.com/02e4f5cb75c7eebaec2b4e17e2e3525acbb422c63a1697ebac24e16729cffcbc/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d626173617672616a2d6368696e6167756e6469267468656d653d7265646963616c" alt="Basavraj's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=basavraj-chinagundi&amp;theme=redical" style="max-width: 100%;">
+
 
 
 
