@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 
-<img src=”https://www.canva.com/design/DAFPL4gkoJE/rBIIWNax44shV3FRjJ9tPQ/view?utm_content=DAFPL4gkoJE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview”>
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
 
 
