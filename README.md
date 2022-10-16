@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 ### ABOUT ME-
 
-I am a ML/DL enthusiast
+-> I am a ML/DL enthusiast
+-> reseacher
+-> Currently working on pytorch and scikit 
+-> pre final year b.tech student
 
 ### FIND ME ON!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
