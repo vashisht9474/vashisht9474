@@ -1,4 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=vashisht9474)
+[![Github](https://img.shields.io/github/followers/vashisht9474?label=Follow&style=social)](https://github.com/vashisht9474)
 ### Hi there 👋 I am Virender Vashisht
 
 <!--
