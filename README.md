@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=vashisht9474.vashisht9474)
+![](https://visitor-badge.laobi.icu/badge?page_id=vashisht9474)
 
 
 
