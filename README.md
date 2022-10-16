@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 ### ABOUT ME-
 
 -> I am a ML/DL enthusiast
+
 -> reseacher
+
 -> Currently working on pytorch and scikit 
+
 -> pre final year b.tech student
 
 ### FIND ME ON!
@@ -46,12 +49,12 @@ Here are some ideas to get you started:
  </p>
  
  ### Profile Stats
- ------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vashisht9474&show_icons=true&theme=tokyonight)
 
 ### Common Languages 
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashisht9474&theme=tokyonight)
 
