@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 
 -->
-<p align="center">
+
 ![save_virender ](https://user-images.githubusercontent.com/77716898/196652520-0e86221c-8e22-4c36-b5fe-31c828fa1112.png)
- </p>
+
 
 
 
