@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 -> I am a ML/DL enthusiast
 
--> reseacher
+-> researcher
 
 -> Currently working on pytorch and scikit 
 
