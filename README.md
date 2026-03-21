@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=vashisht9474)
 [![Github](https://img.shields.io/github/followers/vashisht9474?label=Follow&style=social)](https://github.com/vashisht9474)
-### Hi there 👋 I am Virender Vashisht
+### Hi there 👋 I am Swaroop Vashisht
 
 <!--
 **vashisht9474/vashisht9474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
