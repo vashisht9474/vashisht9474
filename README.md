@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### ABOUT ME-
 
--> I am a ML/DL enthusiast
+-> I am a AI enthusiast
 
 -> researcher
 
