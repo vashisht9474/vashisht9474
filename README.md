@@ -29,23 +29,8 @@ Here are some ideas to get you started:
 
 -> researcher
 
--> Currently working on pytorch and scikit 
-
 -> pre final year b.tech student
 
-### FIND ME ON!
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
- 
- <a href="https://linkedin.com/in/virender-vashisht-32a3b6200" target="_blank" rel="noopener noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:vashishtv2002@gmail.com"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-
- 
-</p>
-
-<br />
 
 ### SKILL SET
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -55,11 +40,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" style="max-width: 100%;">
  </p>
- 
- ### Profile Stats
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vashisht9474&show_icons=true&theme=tokyonight)
 
 ### Common Languages 
 
